@@ -48,9 +48,6 @@ The included **Proteus simulation file** lets you test all effects without real 
 - Double-click the MCU in Proteus and load the compiled `.hex` file.
 - Run the simulation to see the effects in action.
 
-## 📷 Preview
-*(You can add screenshots or GIFs from Proteus here.)*
-
 ---
 
 **Author:** Ahmed Shaban  
